@@ -1,0 +1,7 @@
+
+
+avise-me.sh:
+
+	* Adicionar opção para notificação por email para o caso de execução remota.
+Existe a possibilidade de usar algo como o notify-send através de ssh, no entanto, nãofaz sentido quando o programa estiver sendo executado através de uma screen.
+
