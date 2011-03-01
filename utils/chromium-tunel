@@ -1,0 +1,8 @@
+#!/bin/bash
+#
+# chromium-ssh
+#
+# Para usar o chromium através de um túnel ssh 
+#
+
+chromium --proxy-server=socks5://localhost:PORTA
